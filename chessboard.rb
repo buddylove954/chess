@@ -10,6 +10,7 @@ class Board
             :f1=> nil, :f2=> nil, :f3=> nil, :f4=> nil, :f5=> nil, :f6=> nil, :f7=> nil, :f8=> nil,
             :g1=> nil, :g2=> nil, :g3=> nil, :g4=> nil, :g5=> nil, :g6=> nil, :g7=> nil, :g8=> nil,
             :h1=> nil, :h2=> nil, :h3=> nil, :h4=> nil, :h5=> nil, :h6=> nil, :h7=> nil, :h8=> nil,}
+      end
 
 	
 end
