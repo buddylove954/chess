@@ -97,4 +97,4 @@ end
 
 queen = Queen.new("black", "d4")
 
-puts queen.movement("c5")
+puts queen.movement("h4")

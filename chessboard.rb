@@ -1,3 +1,4 @@
+require_relative "rook.rb"
 class Board
 	attr_reader :board
 	def initialize
@@ -16,7 +17,12 @@ class Board
 end
 
 now = Board.new
-p now
+
+rook = Rook.new("white", "c4")
+
+rook.movement("b4")
+
+p rook
 
 
 
