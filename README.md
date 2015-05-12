@@ -1,3 +1,2 @@
 # chess
-chess game
-chess board
+Ironhack week one assessment. 
